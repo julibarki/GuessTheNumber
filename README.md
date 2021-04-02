@@ -1,10 +1,8 @@
 # GuessTheNumber
-Este proyecto es un entretenido juego en el cual tendrás que competir contra una IA y lograr adivinar un número.
-
+This project is an entertaining game in which you will have to compete against an AI and manage to guess a number.
 <h2> Sobre el juego </h2>
-Para que la experiencia sea completa tendras 3 niveles(principiante, intermedio y avanzado) para poder desafiarte y mejorar tus estrategias.
-
-<h2> Tecnologías implementadas </h2>
+For the experience to be complete, you will have 3 levels (beginner, intermediate and advanced) to challenge yourself and improve your strategies.
+<h2> Implemented technologies </h2>
 <ul>
 <li>Html</li>
 <li>Css</li>
