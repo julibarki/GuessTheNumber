@@ -8,5 +8,6 @@ For the experience to be complete, you will have 3 levels (beginner, intermediat
 <li>Css</li>
 <li>Bootstrap</li>
 <li>JavaScript</li>
+ </ul>
 <h2>Contributing</h2>
 <h4>If you like the project, shoot a 🌟 and feel free to fork & send PR anytime.</h4>
